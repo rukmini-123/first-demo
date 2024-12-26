@@ -1,4 +1,4 @@
 # first-demo
 This is my first Git repository.
 <br>
-Author-Rukmini Mandal
+Author-Rukmini (Thanuja)
